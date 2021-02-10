@@ -14,4 +14,6 @@ References:
     Cracking the Coding Interview by Gayle Laakmann McDowell
     Programming Interviews Exposed by Eric Giguere, John Mongan, and Noah Kindler
     GeeksForGeeks
+    
+python_function notebook : code for how we read csv file without pandas    
 
